@@ -1,0 +1,5 @@
+{
+    "require": {
+        "yormy/anonymizer-laravel": "^1.0"
+    }
+}
